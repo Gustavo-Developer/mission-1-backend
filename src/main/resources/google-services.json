@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "332767954339",
+    "project_id": "flash-9601c",
+    "storage_bucket": "flash-9601c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332767954339:android:565f85b3951c7c36514616",
+        "android_client_info": {
+          "package_name": "com.mendesdev.flash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332767954339-a7rtvupjt1b1q8jtn3s8pe33iulsnhal.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mendesdev.flash",
+            "certificate_hash": "087083d41b1d7c8606768e686f997dbcc2c5bedb"
+          }
+        },
+        {
+          "client_id": "332767954339-0jo54k6t8b3oq0chnqueb983rgpvkogg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB48Lje8jfDY802bM9Z3o0XZuOfqoKmhYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332767954339-0jo54k6t8b3oq0chnqueb983rgpvkogg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "332767954339-brfkjnlm269oj6ujvqmrs4u0u0pv7md0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mendesdev.flash"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
